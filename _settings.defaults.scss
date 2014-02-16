@@ -15,10 +15,10 @@
 /**
  * High-level base settings.
  */
-$base-font-size:        16px !default;
-$base-line-height:      24px !default;
-$base-text-color:       #333 !default;
-$base-background-color: #fff !default;
+$inuit-base-font-size:          16px !default;
+$inuit-base-line-height:        24px !default;
+$inuit-base-text-color:         #333 !default;
+$inuit-base-background-color:   #fff !default;
 
 
 
@@ -30,7 +30,7 @@ $base-background-color: #fff !default;
  * Would you like inuitcss’ classes to be prepended with a namespace? If so,
  * define it here.
  */
-$namespace:             null !default;
+$inuit-namespace:               null !default;
 
 
 
@@ -42,12 +42,12 @@ $namespace:             null !default;
  * These font sizes, defined in pixels, will be converted into rems (with pixel
  * fallbacks) by inuitcss.
  */
-$heading-size-1:        36px !default;
-$heading-size-2:        30px !default;
-$heading-size-3:        24px !default;
-$heading-size-4:        20px !default;
-$heading-size-5:        16px !default;
-$heading-size-6:        14px !default;
+$inuit-heading-size-1:          36px !default;
+$inuit-heading-size-2:          30px !default;
+$inuit-heading-size-3:          24px !default;
+$inuit-heading-size-4:          20px !default;
+$inuit-heading-size-5:          16px !default;
+$inuit-heading-size-6:          14px !default;
 
 
 
@@ -58,4 +58,4 @@ $heading-size-6:        14px !default;
  * above. Feel free to use these variables throughout your project, but do not
  * modify or reassign them.
  */
-$base-spacing-unit:     $base-line-height;
+$inuit-base-spacing-unit:       $inuit-base-line-height;
