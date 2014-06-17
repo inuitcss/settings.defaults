@@ -48,4 +48,6 @@ $inuit-heading-size-6:          14px !default;
 // These variables are framework variables, sourced from variables defined
 // above. Feel free to use these variables throughout your project, but do not
 // modify or reassign them.
-$inuit-base-spacing-unit:       $inuit-base-line-height;
+$inuit-base-spacing-unit:           $inuit-base-line-height;
+$inuit-base-spacing-unit--small:    round($inuit-base-line-height / 2);
+$inuit-base-spacing-unit--large:    round($inuit-base-line-height * 2);
