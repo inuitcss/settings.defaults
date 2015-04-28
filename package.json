@@ -1,6 +1,6 @@
 {
   "name": "inuit-defaults",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Global, default settings for the inuitcss framework",
   "main": "_settings.defaults.scss",
   "repository": {
